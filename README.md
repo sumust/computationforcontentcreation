@@ -4,3 +4,9 @@ This website hosts the materials for the Computation for Content Creation course
 ## Schedule
 
 ## Lectures
+
+* Lecture 1
+* Lecture 2
+* Lecture 3
+* Lecture 4
+* Lecture 5
